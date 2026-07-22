@@ -1,0 +1,17 @@
+Id CommandLine             
+  -- -----------             
+   1 try { . "c:\Users\pre...
+   2 git status              
+   3 git add testing.py      
+   4 git status              
+   5 git rm--cache           
+   6 git add .               
+   7 git commit -m "added ...
+   8 git status              
+   9 rm testing.py           
+  10 dir                     
+  11 clear                   
+  12 git status              
+  13 git restore testing.py  
+  14 git status              
+  15 clear                   
