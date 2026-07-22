@@ -1,10 +1,11 @@
+"""Demo module."""
+
+
 def hello():
-    """
-    this is demo
-    """
+    """Return a greeting message."""
     return "hello dosto"
 
 
 if __name__ == "__main__":
-   print(hello())
-   
+    result = hello()
+    print(result)
